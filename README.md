@@ -1,5 +1,5 @@
 # LatihanWinfrm
-LatihanWinForm
+LatihanWinForm Tugas Pemograman Lanjut Ke 3
 
 ## Merevisi kode untuk btnTampil_Click
 ![1](https://user-images.githubusercontent.com/29158899/46578200-4976f900-ca23-11e8-9b02-c245c032bec4.PNG)
