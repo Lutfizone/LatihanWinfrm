@@ -2,7 +2,7 @@
 LatihanWinForm Tugas Pemograman Lanjut Ke 3
 
 ## Merevisi kode untuk btnTampil_Click
-![1](https://user-images.githubusercontent.com/29158899/46578200-4976f900-ca23-11e8-9b02-c245c032bec4.PNG)
+![iki](https://user-images.githubusercontent.com/29158899/46581429-dc835380-ca62-11e8-9ca4-60098abe820b.PNG)
 
 
 ## Tugas 1
