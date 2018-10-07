@@ -16,7 +16,7 @@ namespace Latihanwinform
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmListMahasiswa());
+            Application.Run(new Form1());
         }
     }
 }

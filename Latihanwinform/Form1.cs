@@ -42,17 +42,10 @@ namespace Latihanwinform
                 txtTempatLahir.Focus();
                 return;
             }
-
-            
-            {
-                dtpTanggalLahir.Value = DateTime.Today;
-                dtpTanggalLahir.Focus();
-            }
             
             var jenisKelamin = rdoLakilaki.Checked ? "Laki-laki" : "Perempuan";
-
-            var msg = string.Format("NPM : {0} \nNama: {1} \nJenis Kelamin: {2} \nTempat Lahir & Tanggal Lahir: {3} , {4}",
-                mskNPM.Text, txtNama.Text, jenisKelamin, txtTempatLahir.Text , dtpTanggalLahir.Value);
+            var msg = string.Format("NPM : {0} \nNama: {1} \nJenis Kelamin: {2} \nTempat & Tanggal Lahir: {3} , {4}",
+                mskNPM.Text, txtNama.Text, jenisKelamin, txtTempatLahir.Text , dtpTanggalLahir.Text);
 
             MessageBox.Show(msg, "Informasi", MessageBoxButtons.OK,
                 MessageBoxIcon.Information);
